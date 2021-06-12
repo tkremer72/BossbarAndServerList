@@ -1,0 +1,15 @@
+main: com.webtek.bossbar_serverlist.Main
+name: BossbarServerListPlugin
+version: '1.0'
+commands:
+  heal:
+    aliases: [h, heal, health, life]
+    description: This command is to restore the players health to full.
+  time:
+    aliases: [reset, restart, doover]
+    description: This command is to reset the players time to full time.
+author: Thomas E. Kremer
+description: This plugin is to set the Bossbars and the server list look.
+publisher: WebTek Inc.
+api-version: '1.16'
+website: http://thomas-e-kremer-portfolio.s3-website.us-east-2.amazonaws.com/

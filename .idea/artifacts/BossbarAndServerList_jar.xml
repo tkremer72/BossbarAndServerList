@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BossbarAndServerList:jar">
+    <output-path>$USER_HOME$/Desktop/Local Minecraft Server 2/plugins</output-path>
+    <root id="archive" name="BossbarAndServerList.jar">
+      <element id="module-output" name="BossbarAndServerList" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
